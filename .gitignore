@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignore IPython Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore CSV files
+*.csv
+global-energy-trends-visualization.ipynb
+sustainable-energy-autoviz-eda.ipynb
